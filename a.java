@@ -3,5 +3,9 @@ public class a {
         System.out.println("Hello Manish!");
         System.out.println("Welcome to Github");
         System.out.println("This file is in main branch");
+
+        while(true){
+            
+        }
     }
 }
