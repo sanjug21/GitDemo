@@ -9,6 +9,11 @@ public class a {
             if(i%2==0)
                 continue ;
         }
+        for(int i=0;i<120;i++){
+            System.out.println(i);
+            if(i%2==0)
+                continue ;
+        }
         int i= 1 ;
         while(i<10){
             i++;
