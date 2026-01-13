@@ -4,15 +4,10 @@ public class a {
         System.out.println("Welcome to Github");
         System.out.println("This file is in main branch");
 
-        for(int i=0;i<120;i++){
-            System.out.println(i);
+        for(int i=1;i<108;i++){
+            System.out.println("Ram Ram Ji ");
             if(i%2==0)
                 continue ;
-        }
-        int i= 1 ;
-        while(i<10){
-            i++;
-            System.out.println(i);
         }
     }
 }
